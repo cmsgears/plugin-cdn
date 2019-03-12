@@ -1,13 +1,13 @@
 Project 	- CMSGears (http://www.cmsgears.org)
 
-Plugin  	- Elasticsearch
+Plugin  	- CDN
 
 License 	- GPLv3 (http://www.gnu.org/licenses/gpl-3.0.html)
 
-Description - Elasticsearch plugin for CMSGears provide component to process CRUD operations and search on Elasticsearch Server.
+Description - CDN Plugin for CMSGears provide component to handle content delivery network specific tasks.
 
 Highlighted Features
 =========================================
-1. Elasticsearch plugin for CMSGears provide component to process CRUD operations and search on Elasticsearch Server.
+1. Provides CDN features of various Content Delivery Networks.
 
 Notes: The detailed description for each feature can be found at http://www.cmsgears.org.
