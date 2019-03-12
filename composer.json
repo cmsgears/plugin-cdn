@@ -1,0 +1,23 @@
+{
+	"name": "cmsgears/plugin-cdn",
+	"description": "CDN Plugin for CMSGears provide component to handle content delivery network specific tasks.",
+	"homepage": "http://www.cmsgears.org",
+	"type": "package",
+	"keywords": [ "yii2", "cmsgears", "plugin", "cdn" ],
+	"license": "GPL-3.0-or-later",
+	"support": {
+        "source": "http://www.cmsgears.org/downloads/plugins/cdn",
+		"forum": "http://forum.cmsgears.org/",
+		"resources": "http://resources.cmsgears.org/",
+		"issues": "https://www.amazingdesk.com/cmsgears/issues/",
+		"blog": "http://cmsgears.tutorials24x7.com/"
+	},
+	"autoload": {
+		"psr-4": {
+			"cmsgears\\cdn\\": ""
+		}
+	},
+    "require": {
+        "cmsgears/module-core": "*"
+    }
+}
